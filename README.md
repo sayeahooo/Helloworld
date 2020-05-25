@@ -1,2 +1,4 @@
 # Helloworld
-My Hello world repository
+well, trying to find something fun in github.
+
+good day
